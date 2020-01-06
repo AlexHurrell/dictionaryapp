@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,YACE,UACF,CAEA,eACE,qBACF","file":"main.1f16807b.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.full-width {\n  width: 100%;\n}\n\n.listing:hover {\n  background-color: grey;\n}"]}

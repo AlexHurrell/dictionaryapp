@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dictionaryapp/static/css/main.1f16807b.chunk.css",
+    "main.js": "/dictionaryapp/static/js/main.3e0e24b9.chunk.js",
+    "main.js.map": "/dictionaryapp/static/js/main.3e0e24b9.chunk.js.map",
+    "runtime-main.js": "/dictionaryapp/static/js/runtime-main.c6ff31a5.js",
+    "runtime-main.js.map": "/dictionaryapp/static/js/runtime-main.c6ff31a5.js.map",
+    "static/css/2.41d2056f.chunk.css": "/dictionaryapp/static/css/2.41d2056f.chunk.css",
+    "static/js/2.9f59516d.chunk.js": "/dictionaryapp/static/js/2.9f59516d.chunk.js",
+    "static/js/2.9f59516d.chunk.js.map": "/dictionaryapp/static/js/2.9f59516d.chunk.js.map",
+    "index.html": "/dictionaryapp/index.html",
+    "precache-manifest.abfeca240c2ff21d81a1562fa629c322.js": "/dictionaryapp/precache-manifest.abfeca240c2ff21d81a1562fa629c322.js",
+    "service-worker.js": "/dictionaryapp/service-worker.js",
+    "static/css/2.41d2056f.chunk.css.map": "/dictionaryapp/static/css/2.41d2056f.chunk.css.map",
+    "static/css/main.1f16807b.chunk.css.map": "/dictionaryapp/static/css/main.1f16807b.chunk.css.map",
+    "static/js/2.9f59516d.chunk.js.LICENSE": "/dictionaryapp/static/js/2.9f59516d.chunk.js.LICENSE",
+    "static/media/all.css": "/dictionaryapp/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6ff31a5.js",
+    "static/css/2.41d2056f.chunk.css",
+    "static/js/2.9f59516d.chunk.js",
+    "static/css/main.1f16807b.chunk.css",
+    "static/js/main.3e0e24b9.chunk.js"
+  ]
+}
