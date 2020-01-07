@@ -1,2 +1,2 @@
-https://alexhurrell.github.io/dictionaryapp/overview
+https://alexhurrell.github.io/dictionaryapp/
 
